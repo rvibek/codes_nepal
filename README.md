@@ -1,2 +1,5 @@
-# codes_nepal
-pcodes_nepal clip and dump
+## Plus Codes clip with GeoJSON
+
+Geojson 
+[Acesmndr Github](https://github.com/Acesmndr/nepal-geojson)
+
